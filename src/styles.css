@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  font-size: 0.9rem;
+}
+.warn {
+  color: tomato;
+}
+.blue {
+  color: blue;
+  font-weight: bold;
+  text-decoration: underline;
+}
+table {
+  border-collapse: collapse;
+}
